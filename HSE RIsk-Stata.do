@@ -1,5 +1,3 @@
-#
-
 cap log close
 log using "HSE Risk", replace 
 
